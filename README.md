@@ -2,14 +2,6 @@
 
 A Unity mini-game collection featuring four playable games in one project: an idle clicker, Snake, Flappy Bird, and Doodle Jump. Built with **Unity 2019.4 LTS** and **C#**.
 
-## 🎮 Play
-
-> _Add a build download link or WebGL demo link here_
-
-## 📸 Screenshots
-
-> _Add screenshots of each game here_
-
 ## 🕹️ Games
 
 ### 🐸 Toad Clicker
@@ -103,18 +95,6 @@ Assets/
 2. Open the project folder in **Unity Hub**.
 
 3. Open any scene from `Assets/Scenes/` and press **Play**.
-
-## 🔮 Roadmap
-
-- [ ] Main menu with game selection screen
-- [ ] Score display and high score tracking
-- [ ] Sound effects and background music
-- [ ] Mobile build (Android/iOS)
-- [ ] Doodle Jump: enemy obstacles and moving platforms
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
